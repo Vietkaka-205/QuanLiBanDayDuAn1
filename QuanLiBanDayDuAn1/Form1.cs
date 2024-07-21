@@ -12,7 +12,7 @@ namespace QuanLiBanDayDuAn1
             Form2 qlbg = new Form2();
             if (txtTaiKhoan.Text != "" && txtMatKhau.Text != "")
             {
-                if (txtTaiKhoan.Text == "admin" && txtMatKhau.Text == "15072005")
+                if (txtTaiKhoan.Text == "admin" && txtMatKhau.Text == "2005")
                 {
                     qlbg.ShowDialog();
                 }
